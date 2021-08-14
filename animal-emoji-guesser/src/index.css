@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  margin: 1rem;
+  padding: 1rem;
+}
+#odd{
+  background-color: grey;
+}
+
+#output{
+  margin: 1rem;
+  padding: 1rem;
+}
